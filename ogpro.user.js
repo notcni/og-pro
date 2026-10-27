@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         OG Pro - Premium Edition
 // @namespace    http://tampermonkey.net/
-// @version      12.2
+// @version      13.2
 // @description  Professional auto bumper with red premium UI, animated controls, smart delay calc, 404 detection, GitHub auth and in-panel updater.
 // @author       notcni / auto peek
 // @match        https://oguser.com/*
